@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Cininnati</a>. 5507 Valley Country Lane, Sugarland, Texas 77479 . 513-850-6582. "Empowering the future through innovation and knowledge."
 
 profile:
   align: right
