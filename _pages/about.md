@@ -21,6 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 Machine Learning Research Assistant at the University of Cincinnati. Check out [UCDasec](https://homepages.uc.edu/~wang2ba/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+# About Me
+I am a Deep Learning Researcher specializing in data security and privacy. I work on decrypting encryption keys using Deep Learning-based Side Channel attacks. I have experience in predicting and recovering encryption keys from different datasets with obfuscations and optimizations. As a Software Engineer, I have developed auto grading systems for programming courses, resulting in cost reduction and efficient grading. In computer vision research, I processed videos using machine learning models for summarization and classification. I have skills in programming languages like Python, Java, and C++, as well as machine learning frameworks such as Tensor Flow and PyTorch.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+
