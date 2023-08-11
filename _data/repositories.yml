@@ -3,10 +3,9 @@ github_users:
 
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - UCdasec/SoftPower
+  - mabonmn/Complied-analysis-NICV--SNR--CPA
+  - mabonmn/SoftPower_Key_Rank_Curve_Generation
+  - mabonmn/Reinforcement-Learning-for-SCA
+  - mabonmn/EvilELF
+  - mabonmn/TripletPower
