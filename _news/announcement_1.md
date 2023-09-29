@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Mabon Manoj Ninan presented a poster titled "Robust Cross Side Channel Attacks" at the semi-annual CHEST conference.
+Mabon Ninan presented a poster titled "Robust Cross Side Channel Attacks" at the semi-annual CHEST conference.
