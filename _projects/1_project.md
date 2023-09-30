@@ -24,4 +24,3 @@ category: work
     Research Poster.
 </div>
 
-{% endraw %}
