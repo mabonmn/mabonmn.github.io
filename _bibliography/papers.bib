@@ -5,7 +5,7 @@
 
 
 @article{PhysRev.47.777,
-  abbr={PhysRev},
+  abbr={ACM},
   title={Portability of Deep-Learning Side-Channel Attacks againstSoftware Discrepancies},
   author={Chenggang Wang, Mabon Ninan, Shane Reill, Joel Ward, William Hawkins, Boyang Wang, John M. Emmert },
   abstract={Deep-learning side-channel attacks can reveal encryption keys on a device by analyzing power consumption with neural networks. However, the portability of deep-learning side-channel attacks can be affected when training data (from the training device) and test data (from the test device) are discrepant. Recent studies have exam-ined the portability of deep-learning side-channel attacks against hardware discrepancies between two devices. In this paper, we investigate the portability of deep-learning side-channel attacks against software discrepancies between the training device and test device. Specifically, we examine four factors that can lead to software discrepancies, including random delays, instruction rewriting, optimization levels, and code obfuscation. Our experi- mental results show that software discrepancies caused by each factor can significantly downgrade the attack performance of deep-learning side-channel attacks, and even prevent an attacker from recovering keys. To mitigate the impacts of software discrepancies, we investigate three mitigation methods, including adjusting Points of Interest, domain adaptation, and multi-domain training, from the perspective of an attacker. Our results indicate that multi-domain training is the most effective approach among the three, but it can be difficult to scale given the diversity of software discrepancies.},
@@ -26,7 +26,7 @@
 
 
 @article{PhysRev.47.777,
-  abbr={PhysRev},
+  abbr={IEEE},
   title={EvilELF: Evasion Attacks on Deep-Learning Malware Detection over ELF Files},
   author={Andrew Kosikowski, Daniel J, Mabon Ninan, Anca Ralescu  Boyang Wang},
   abstract={This paper investigates evasion attacks on end-to-end deep-learning malware detection over ELF (Executable and Linkable Format) binaries. We show that an attacker can deliberately modify bytes in a malware ELF binary such that a well-trained neural network is misled and predicts it as benign. We examine five methods that can modify ELF binaries without affecting functionalities and leverage them in evasion attacks. We explore two state-of-the-art end-to-end deep learning malware detectors, including MalConv and FireEyeNet, over a real-world dataset with 1,422 ELF binaries. Our experimental results show that evasion attacks with 3 out of the 5 methods are effective and can force the two CNNs to predict incorrectly. For instance, the most effective modification achieves up to 76.6\% evasion rate on FireEyeNet and 8.4\% evasion rate on MalConv. We also demonstrate that retraining CNNs with deliberately modified binaries can significantly mitigate evasion attacks.},
