@@ -7,13 +7,6 @@ importance: 1
 category: work
 ---
 
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
