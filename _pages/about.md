@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Cininnati</a>. " Empowering the Future with Intelligent Deliverance."
+subtitle: <a href='#'>University of Cininnati</a>. "How big could you dream, if you knew you would never fail?"
 
 profile:
   align: right
