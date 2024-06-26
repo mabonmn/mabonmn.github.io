@@ -22,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 Machine Learning Research Assistant at the University of Cincinnati. Check out [UCDasec](https://homepages.uc.edu/~wang2ba/). 
 
 # About Me
-I am a Deep Learning Researcher specializing in data security and privacy. I work on decrypting encryption keys using Deep Learning-based Side Channel attacks. I have experience in predicting and recovering encryption keys from different datasets with obfuscations and optimizations. As a Software Engineer, I have developed auto grading systems for programming courses, resulting in cost reduction and efficient grading. In computer vision research, I processed videos using machine learning models for summarization and classification. I have skills in programming languages like Python, Java, and C++, as well as machine learning frameworks such as Tensor Flow and PyTorch.
+I am currently pursuing a Ph.D. at Texas A&M University in Computer Science, specializing in Malware Detection. Concurrently, I hold a role as a Research Scientist at Cincinnati Children's Hospital's Advanced Imaging Center, where I focus on advancing multimodal imaging techniques for clinical applications. My research leverages state-of-the-art machine learning methodologies and multimodal ML pipelines to innovate diagnostic approaches, aiming to reduce uncertainties in patient care.
+I completed my undergraduate studies in Computer Engineering at the University of Cincinnati, culminating in a thesis on Advanced Deep Learning Side Channel Attacks, supervised by Dr. Boyang Wang. My academic journey includes authoring four publications, three of which as lead author, in prestigious IEEE and ACM conferences dedicated to security and hardware."
 
 
 
