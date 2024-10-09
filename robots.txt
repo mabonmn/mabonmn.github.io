@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://people.tamu.edu/~ninanmm//sitemap.xml
+Sitemap: https://mabonmn.github.io/sitemap.xml
